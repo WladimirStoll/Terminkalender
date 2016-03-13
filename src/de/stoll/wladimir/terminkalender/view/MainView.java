@@ -99,7 +99,7 @@ public class MainView implements IMainView{
 
 	@Override
 	public void repaint() {
-		System.out.println("todo 2");
+		System.out.println("todo 23");
 	}
 
 	public JFrame getFrame() {
